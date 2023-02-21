@@ -757,7 +757,7 @@ skills[13] = { -- BST/SMN Pet Skills / may have some errors, Modified for Wings/
     [842] = {en='Burning Strike',skillchain={'Impaction'}},
     [843] = {en='Double Punch',skillchain={'Compression'}},
     [846] = {en='Flaming Crush',skillchain={'Fusion','Reverberation'}},
-    [560] = {en='Rock Throw',skillchain={'Scission'}},
+    [849] = {en='Rock Throw',skillchain={'Scission'}},
     [851] = {en='Rock Buster',skillchain={'Reverberation'}},
     [852] = {en='Megalith Throw',skillchain={'Induration'}},
     [855] = {en='Mountain Buster',skillchain={'Gravitation','Induration'}},
